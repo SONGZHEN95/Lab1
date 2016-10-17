@@ -16,6 +16,7 @@ public class testz {
 		}
 	}
 	//为lab1项目文件增加注释
+	//在B1分支上进行修改
 	public  String change(String exp){
 		Scanner in = new Scanner(System.in);
 		String tar1 = in.nextLine();
