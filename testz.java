@@ -15,7 +15,7 @@ public class testz {
 			return null;
 		}
 	}
-	//为lab1项目文件增加注释
+	//为lab1项目文件增加注释.
 	public  String change(String exp){
 		Scanner in = new Scanner(System.in);
 		String tar1 = in.nextLine();
