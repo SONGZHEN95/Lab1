@@ -37,6 +37,7 @@ public class testz {
 						return null;}}}
 			return exp;}
 		}
+	//3.6改动
 	public String simplify(String str){
 		String[] sz = str.split("\\+");
 		int i=1;
